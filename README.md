@@ -14,7 +14,7 @@ A simple C++ program for managing student information, designed to perform essen
 ---
 
 ## Prerequisites
-- A C++ compiler (e.g., GCC or MSVC).
+- A C++ compiler (e.g., Dev C++ or MSVC).
 - Basic understanding of C++ programming.
 
 ---
@@ -28,7 +28,7 @@ A simple C++ program for managing student information, designed to perform essen
    ```bash
    g++ -o student_management_system student_management_system.cpp
 3. Run the executable:
-   '''bash
+   ```bash
    ./student_management_system
 
 ## Contributing
